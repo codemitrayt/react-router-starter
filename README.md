@@ -20,7 +20,7 @@
 
 #### 2. Clone the repo using command
 
-- `git clone `
+- `git clone https://github.com/codemitrayt/react-router-starter.git`
 
 #### 3. Go to project folder
 
