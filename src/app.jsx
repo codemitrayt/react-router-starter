@@ -1,7 +1,7 @@
 function App() {
   return (
     <h1 className="text-pink-500 flex items-center justify-center h-screen text-2xl bg-gray-900">
-      Hello
+      Hello Welcome to Code Mitra YT
     </h1>
   );
 }
